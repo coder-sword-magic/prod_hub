@@ -10,4 +10,4 @@ code snippets of a fund mangement system written in python
 ### 3.公告自动生成
   开放日前生成公告、备案期前生成备案文件
 ### 4.净值管理
-  链接数据源采集二级市场收盘价、自动采集在投基金净值邮件
+  数据源采集二级市场收盘价、自动采集在投基金净值邮件
